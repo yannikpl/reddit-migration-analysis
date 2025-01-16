@@ -369,7 +369,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": null,
+   "execution_count": None,
    "id": "6b1ee346-7829-4a14-ad27-92271140dc85",
    "metadata": {},
    "outputs": [
@@ -391,6 +391,7 @@
    "source": [
     "!streamlit run /opt/anaconda3/lib/python3.12/site-packages/ipykernel_launcher.py"
    ]
+
   },
   {
    "cell_type": "code",
